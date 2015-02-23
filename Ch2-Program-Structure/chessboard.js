@@ -33,7 +33,6 @@ function chessBoard(dimension) {
             board+='\n';
         } 
     }
-    console.log(board);
 }
 
-chessBoard(8);
+console.log(chessBoard(8));

@@ -14,22 +14,22 @@ function fizzBuzz1(startNum, endNum) {
     }
 }
 
-/*Execution of fizzBuzz1() with the domain [1,15] should print the following:
+/*Calling fizzBuzz1() with the domain [1,15] should print the following:
 1
 2
-3-->Fizz
+Fizz
 4
-5-->Buzz
-6-->Fizz
+Buzz
+Fizz
 7
 8
-9-->Fizz
-10-->Buzz
+Fizz
+Buzz
 11
-12-->Fizz
+Fizz
 13
 14
-15-->Fizz
+Fizz
 */
 fizzBuzz1(1,15);
 
@@ -65,28 +65,28 @@ function fizzBuzz2B(startNum, endNum) {
     }
 }
 
-/*Executing either fizzBuzz2A() or fizzBuzz2B() with the domain of [1,21] should print this result:
+/*Calling either fizzBuzz2A() or fizzBuzz2B() with the domain of [1,21] should print this result:
 1
 2
-3-->Fizz
+Fizz
 4
-5-->Buzz
-6-->Fizz
+Buzz
+Fizz
 7
 8
-9-->Fizz
-10-->Buzz
+Fizz
+Buzz
 11
-12-->Fizz
+Fizz
 13
 14
-15-->FizzBuzz
+FizzBuzz
 16
 17
-18-->Fizz
+Fizz
 19
-20-->Buzz
-21--Fizz
+Buzz
+Fizz
 */
 fizzBuzz2A(1,21);
 fizzBuzz2B(1,21);
