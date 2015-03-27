@@ -10,7 +10,7 @@ like the list below:
 	      rest: null
 	    }
 	  }
-	};
+	}; 
 	*/
 	function arrayToList(arr) {
 		if (arr) {

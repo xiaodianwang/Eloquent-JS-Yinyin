@@ -1,4 +1,4 @@
-/*BEAN COUNTING:
+/*BEAN COUNTING: 
 Part 1: write a function countBs that takes a string as its only argument and returns a 
 number that indicates how many uppercase “B” characters are in the string.
 */

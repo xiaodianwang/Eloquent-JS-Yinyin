@@ -1,4 +1,4 @@
-/*REVERSING AN ARRAY:
+/*REVERSING AN ARRAY: 
 Write a function reverseArray(), that takes an array as an argument
 and produces a new array that has the same elements in the inverse order.
 This may not use the standard reverse() method.

@@ -1,4 +1,4 @@
-/*RECURSION:
+/*RECURSION: 
 Define a recursive function isEven corresponding to this description:
 	Zero is even.
 	One is odd.
@@ -7,7 +7,7 @@ The function should accept a number parameter and return a Boolean.
 */
 function isEven(num) {
 	if (num < 0) {
-		num = num * -1;
+		num = num * -1; 
 	}
 	if (num == 0) {
 		return true;
