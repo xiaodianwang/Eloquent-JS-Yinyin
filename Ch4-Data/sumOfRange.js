@@ -49,10 +49,6 @@ console.log(sum(range(1,10)));
 "step" value used to build up the array. If no step is given, the array elements go 
 up by increments of one, corresponding to the old behavior.
 */
-//num1 < num2, step is (+) -> start = num1, end=num2
-//num1 < num2, step is (-) -> start = num2, end=num1
-//num1 > num2, step is (+) -> start = num2, end=num1
-//num1 > num2, step is (-) -> start = num1, end=num2
 function range(start, end, step) {
 	var minNum = Math.min(start, end);
 	var maxNum = Math.max(start, end);
